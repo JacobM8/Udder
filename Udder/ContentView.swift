@@ -16,9 +16,11 @@ struct ContentView: View {
             Text("Udder")
                 .font(.system(size: 40))
             Text("Got Milk?")
+            Text("No milk no problem")
+            Text("view will appear")
         }
         .padding()
-        Text("No milk no problem")
+        
     }
 }
 
